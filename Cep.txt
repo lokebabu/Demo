@@ -1,0 +1,8 @@
+1) Add "Start Over" button to the Grouping screen
+
+2) Start over button will not be displayed if the status type
+is "Pending Isbe" or "Approved".
+
+3) Once the user uploads the data and presented with grouping screen, he can click on start over to delete the data and navigated to upload screen.
+
+4) Once the user has some data in cepsitedetail table then clicking on "IsCepForYou" link takes them to the "Grouping Screen" instead of upload screen.
